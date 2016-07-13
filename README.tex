@@ -38,12 +38,12 @@
 \newcommand{\sectiontitle}[1]{\begin{minipage}{\textwidth}\begin{center}\Large\MakeUppercase{#1}\end{center}\vspace{-5.5mm}\rule{\linewidth}{0.25mm}\vspace{2mm}\end{minipage}}
 
 % A ressection that has to be on one page, awards, education etc
-\newenvironment{tightressection}[1]{
+\newenvironment{resdsection}[1]{
   \begin{minipage}{\textwidth}
-  \sectiontitle{#1}}
-  {\end{minipage}}
+  \ressection{#1}}
+  {\end{minipage}\vspace{2.5mm}}
 
-
+\newcommand{\ignore}[1]{}
 
 % An entry for education
 % Arg1: Institution
@@ -54,13 +54,13 @@
 
 
   \textbf{#1}\\
-  \textit{#2}\hspace{\stretch{1}}\textcolor{accent}{#3}\vspace{1.5mm}
+  \textit{#2}\hspace{\stretch{1}}\textcolor{accent}{#3}\ignore{\vspace{1.5mm}}
 
   \end{minipage}
 }
 
 % An environment for a resume section
-\newenvironment{ressection}[1]{\sectiontitle{#1}}
+\newenvironment{ressection}[1]{\vspace{2.5mm}\sectiontitle{#1}}
 
 % Resentry defines a position
 % Arg1: Position title
@@ -89,13 +89,12 @@
 \end{itemize}
 
 \end{minipage}
+
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \begin{document}
-
-
 
 %Header
 \centerline{{\Huge \name}}
@@ -106,13 +105,15 @@
 
 \vspace{24pt}
 
+\begin{ressection}{Synopsis}
 
+\end{ressection}
 
 %Relevant Skills
-\begin{tightressection}{Competencies}
+\begin{ressection}{Competencies}
 \textbf{Skills}
 \begin{itemize}[noitemsep,nolistsep]
-\resitem{Programming experience in Python, R, Node.js, Julia, Ruby, FORTRAN, SQL, MQL, Cypher, Excel, \LaTeX, HTML5, CSS3, Unix shell}
+\resitem{Programming experience in Python, R, Node.js, Julia, Ruby, FORTRAN, SQL, MQL, Cypher, Excel, \LaTeX, HTML5, CSS3, Unix shell, Git}
 \resitem{Technical experience in statistical learning, predictive modeling, and natural language processing}
 \resitem{Detail-oriented, creative, quick learner, highly analytical, precise, motivated.}
 \end{itemize}
@@ -121,14 +122,14 @@
 \textbf{Certifications}
 \begin{itemize}[noitemsep, nolistsep]
 \resitem{Google Partner status, Analytics, Search, Display, Video, Fundamentals}
-\vspace{2.5mm}
+
 \end{itemize}
 
-\end{tightressection}
+\end{ressection}
 
 \begin{ressection}{Professional Experience}
 
-\begin{resentry}{Lead Data Scientist}{Coolfire Studios}{Saint Louis, MO}{April 2014 --- June 2016}
+\begin{resentry}{Data Scientist}{Coolfire Studios}{Saint Louis, MO}{April 2014 --- June 2016}
 \resitem{Develop the data science program for the Digital Engagement division}
 \resitem{Apply statistical learning techniques to social media data to augment digital marketing efforts}
 \resitem{Advise prominent clients such as GE, Microsoft, and Edward Jones in content creation}
@@ -138,27 +139,16 @@
 \end{ressection}
 
 %Education
-\begin{tightressection}{education}
+\begin{ressection}{Education}
 \begin{resedentry}{Indiana University, Bloomington, IN}{Mathematics, B.A.}{Aug 2008 --- Dec 2013}
 \end{resedentry}
-\end{tightressection}
-
+\end{ressection}
 
 \textbf{Coursework}
 \begin{itemize}[noitemsep, nolistsep]
 \resitem{Multivariable Vector Calculus, Linear Algebra, Probability Theory, Numerical Analysis, Real Analysis, Classical Mechanics.}
 \resitem{Econometrics, Financial Economics, Economics of Money and Banking, Financial Accounting, Options Pricing Theory.}
 \end{itemize}
-
-%Honors and Awards
-\begin{tightressection}{Honors and Awards}
-\begin{resedentry}{Distinguished Service Key Award}{A$\Phi\Omega$ Service Fraternity -- for outstanding service to Chapter and Community}{Dec 2012}
-\end{resedentry}
-\begin{resedentry}{National AP Scholar with Distinction}{College Board -- for scores of four or higher on five or more exams}{May 2008}
-\end{resedentry}
-\begin{resedentry}{Missouri Bright Flight Scholarship}{Missouri Department of Higher Education -- for ACT and SAT scores beyond 98th percentile}{May 2007}
-\end{resedentry}
-\end{tightressection}
 
 \begin{ressection}{Community Service, \& Leadership}
 \begin{resentry}{Projects and Events Director}{Student Sustainability Council}{Bloomington, IN}{May 2012 --- Dec 2012}
@@ -167,25 +157,25 @@
 \end{resentry}
 
 \begin{resentry}{Member-at-Large}{Volunteers in Sustainability}{Bloomington, IN}{May 2011 --- May 2012}
-\resitem{Advisory member of the Executive Committee}
-\resitem{Fulfilled the responsibilities of the Coordinator in their absence}
+\resitem{Advise members of the executive committee and fulfill the duties of coordinator in their absence}
 \end{resentry}
 
 \begin{resentry}{Coordinator}{Volunteers in Sustainability}{Bloomington, IN}{May 2010 --- May 2011}
-\resitem{Chief Executive of ViS}
-\resitem{Developed lecture series about alternative energy on IU Campus}
-\resitem{Managed staffing of Dunn Woods Reclamation Project}
-\resitem{Supervised collection of 12,000 student signatures to create the IU Student Sustainability Fund}
+\resitem{Direct meetings and serve as chief executive of ViS}
 \end{resentry}
 
 \begin{resentry}{Vice President of Membership}{A$\Phi\Omega$ Service Fraternity}{Bloomington, IN}{May 2010 --- May 2011}
-\resitem{Planned requisite social events, managed appointed officers and status of 100 active members}
-\resitem{Directed recruitment and registration of 75 new members}
-\resitem{Instituted cloud-based collaboration and planning platforms}
+\resitem{Plan requisite social events, manage appointed officers and status of 100 active members}
 \end{resentry}
 
-
 \end{ressection}
+
+%Honors and Awards
+\begin{ressection}{Honors and Awards}
+\begin{resedentry}{Distinguished Service Key Award}{A$\Phi\Omega$ Service Fraternity -- for outstanding service to Chapter and Community}{Dec 2012}
+\end{resedentry}
+\end{ressection}
+
 
 \end{document}
 % ----------------------------------------------------------------
