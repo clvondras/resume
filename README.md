@@ -1,126 +1,84 @@
-<span><span>Clayton C. VonDras</span></span>
+# [Clayton C. VonDras](mailto:clvondras@gmail.com)
 
-<span>8049 South Drive</span>
+8049 South Drive<br>
+Saint Louis, MO 63117<br>
+314-775-7671
 
-<span>clvondras@gmail.com</span>
+## Synopsis
 
-<span>Saint Louis, MO</span> <span>63117</span>
+I am a Data Scientist with 2+ years of experience creating statistical learning programs and data analyses in Python, R, and Node. Fascinated by systems and driven to create, I relish the opportunity to forge a rewarding career in an environment of professional excellence which allows me to utilize my passions for applied mathematics, statistics, economics, computer science, and problem solving.
 
-<span>(314) 775-7671</span>
+## Competencies
 
-<span>Synopsis</span> Data scientist with 2+ years of experience
-creating statistical learning programs and data analyses in Python, R,
-and Node.js. Fascinated by systems and driven to create, I relish the
-opportunity to forge a rewarding career in an environment of
-professional excellence which allows me to utilize my passions for
-applied mathematics, statistics, economics, computer science, and
-problem solving.
+#### Skills
 
-<span>Competencies</span> **Skills**
+- Programming experience in Python3, R, Node, Julia, Ruby, FORTRAN, SQL, MQL, Cypher, Excel, LaTeX, HTML5, CSS3, Unix shell, Git
+- Technical experience in statistical learning, predictive modeling, natural language processing
+- Detail-oriented, creative, quick learner, highly analytical, precise, motivated
 
-\[noitemsep,nolistsep\]
+#### Certifications
 
-Programming experience in Python, R, Node.js, Julia, Ruby, FORTRAN, SQL,
-MQL, Cypher, Excel, LaTeX, HTML5, CSS3, Unix shell, Git
+- Google Partner status: Analytics, Search, Display, Video, Fundamentals
 
-Technical experience in statistical learning, predictive modeling, and
-natural language processing
+## Professional Experience
 
-Detail-oriented, creative, quick learner, highly analytical, precise,
-motivated.
+Data Scientist     |         Saint Louis, MO
+------------------ | ----------------------:
+_Coolfire Studios_ | March 2014 &mdash; July 2016
 
-**Certifications**
+- Established the data science program for the Digital Engagement division
+- Created scripts to rapidly collect social data from YouTube, Facebook, AdWords, and Twitter APIs, at-scale
+- Visualized data and relationships with `ggplot2` and `d3.js`
+- Created a classifier to predict the demographics and interests of a YouTube channel's audience based on subscriptions, likes, and comments
+- Used natural language processing techniques to analyze the sentiment of and extract keywords from YouTube and Facebook comments
+- Implemented a video tagging scheme to better use video retention time-series data to inform content decisions
+- Created a program to quickly generate audits of business verticals on YouTube using `rmarkdown` and `knitr`
+- Reverse-engineered server calls to extract historical data from YouTube videos
+- Combined SSA baby name data with actuarial life tables to predict the age and gender of email list members from their first name
+- Segmented Facebook audiences with graph clustering algorithms to analyze audience evolution through time
+- Predicted future fluctuations in ad market prices with multivariate models to choose best time to launch campaigns
+- Used linear models to estimate e-commerce revenue from social data
 
-\[noitemsep, nolistsep\]
+## Education
 
-Google Partner status: Analytics, Search, Display, Video, Fundamentals
+Indiana University |      Bloomington, IN
+------------------ | -------------------:
+_Mathematics B.A._ | Aug 2008 &mdash; Dec 2013
 
-<span>Professional Experience</span>
+#### Coursework
 
-<span>Data Scientist</span><span>Coolfire Studios</span><span>Saint
-Louis, MO</span><span>March 2014 — June 2016</span>
+- Multivariable Vector Calculus, Linear Algebra, Probability Theory, Numerical Analysis, Real Analysis, Classical Mechanics.
+- Econometrics, Financial Economics, Economics of Money and Banking, Financial Accounting, Options Pricing Theory
 
-Developed the data science program for the Digital Engagement division
+## Community Service & Leadership
 
-Created scripts to rapidly collect social data from YouTube, Facebook,
-AdWords, and Twitter APIs, at-scale
+Projects and Events Director   |      Bloomington, IN
+------------------------------ | -------------------:
+Student Sustainability Council | May 2012 &mdash; Dec 2012
 
-Visualized data and relationships with `ggplot2` and `d3.js`
+- Responsible for the planning and execution of SustainIU Week 2013 and all Council-sponsored projects and events
+- Managed allocation and coordination of a 12,000 Green Initiative Grant
 
-Created a classifier to predict the demographics and interests of a
-YouTube channel’s audience based on subscriptions, likes, and comments
+Member-at-Large              |      Bloomington, IN
+---------------------------- | -------------------:
+Volunteers in Sustainability | May 2011 &mdash; May 2012
 
-Used natural language processing techniques to analyze the sentiment of
-and extract keywords from YouTube and Facebook comments
+- Advised members of the executive committee and fulfilled the duties of Coordinator in their absence
 
-Implemented a video tagging scheme to better use video retention
-time-series data to inform content decisions
+Coordinator                  |      Bloomington, IN
+---------------------------- | -------------------:
+Volunteers in Sustainability | May 2010 &mdash; May 2011
 
-Created a program to quickly generate audits of business verticals on
-YouTube using `rmarkdown` and `knitr`
+- Directed meetings and serve as chief executive of ViS
 
-Reverse-engineered server calls to extract historical data from YouTube
-videos
+Vice President of Membership |      Bloomington, IN
+---------------------------- | -------------------:
+ΑΦΩ Service Fraternity       | May 2010 &mdash; May 2011
 
-Combined SSA baby name data with actuarial life tables to predict the
-age and gender of email list members from their first name
+- Planned requisite social events, managed appointed officers and status of 100 active members
 
-Segmented Facebook audiences with graph clustering algorithms to analyze
-audience evolution through time
+## Honors & Awards
 
-Predicted future fluctuations in ad market prices with multivariate
-models to choose best time to launch campaigns
-
-Used linear models to estimate e-commerce revenue from social data
-
-<span>Education</span>
-
-<span>Indiana University, Bloomington, IN</span><span>Mathematics,
-B.A.</span><span>Aug 2008 — Dec 2013</span>
-
-**Coursework**
-
-\[noitemsep, nolistsep\]
-
-Multivariable Vector Calculus, Linear Algebra, Probability Theory,
-Numerical Analysis, Real Analysis, Classical Mechanics.
-
-Econometrics, Financial Economics, Economics of Money and Banking,
-Financial Accounting, Options Pricing Theory.
-
-<span>Community Service & Leadership</span>
-
-<span>Projects and Events Director</span><span>Student Sustainability
-Council</span><span>Bloomington, IN</span><span>May 2012 — Dec
-2012</span>
-
-Responsible for the planning and execution of SustainIU Week 2013 and
-all Council-sponsored projects and events
-
-Managed allocation and coordination of a 12,000 Green Initiative Grant
-
-<span>Member-at-Large</span><span>Volunteers in
-Sustainability</span><span>Bloomington, IN</span><span>May 2011 — May
-2012</span>
-
-Advised members of the executive committee and fulfilled the duties of
-Coordinator in their absence
-
-<span>Coordinator</span><span>Volunteers in
-Sustainability</span><span>Bloomington, IN</span><span>May 2010 — May
-2011</span>
-
-Directed meetings and serve as chief executive of ViS
-
-<span>Vice President of Membership</span><span>A$\Phi\Omega$ Service
-Fraternity</span><span>Bloomington, IN</span><span>May 2010 — May
-2011</span>
-
-Planned requisite social events, managed appointed officers and status
-of 100 active members
-
-<span>Honors & Awards</span>
-
-<span>Distinguished Service Key Award</span><span>A$\Phi\Omega$ Service
-Fraternity – for outstanding service to Chapter and
-Community</span><span>Dec 2012</span>
+Distinguished Service Key Award                  | ΑΦΩ Service Fraternity
+------------------------------------------------ | ---------------------:
+For outstanding service to Chapter and Community |          December 2012
