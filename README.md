@@ -23,7 +23,7 @@ I am a Data Scientist with 2+ years of experience creating statistical learning 
 ## Professional Experience
 
 Data Scientist     |         Saint Louis, MO
------------------- | ----------------------:
+:----------------- | ----------------------:
 _Coolfire Studios_ | March 2014 &mdash; July 2016
 
 - Established the data science program for the Digital Engagement division
@@ -42,8 +42,8 @@ _Coolfire Studios_ | March 2014 &mdash; July 2016
 ## Education
 
 Indiana University |      Bloomington, IN
------------------- | -------------------:
-_Mathematics B.A._ | Aug 2008 &mdash; Dec 2013
+:----------------- | -------------------:
+_Mathematics B.A._ | August 2008 &mdash; December 2013
 
 #### Coursework
 
@@ -52,33 +52,33 @@ _Mathematics B.A._ | Aug 2008 &mdash; Dec 2013
 
 ## Community Service & Leadership
 
-Projects and Events Director   |      Bloomington, IN
------------------------------- | -------------------:
-Student Sustainability Council | May 2012 &mdash; Dec 2012
+Projects and Events Director     |      Bloomington, IN
+:------------------------------- | -------------------:
+_Student Sustainability Council_ | May 2012 &mdash; December 2012
 
 - Responsible for the planning and execution of SustainIU Week 2013 and all Council-sponsored projects and events
 - Managed allocation and coordination of a 12,000 Green Initiative Grant
 
-Member-at-Large              |      Bloomington, IN
----------------------------- | -------------------:
-Volunteers in Sustainability | May 2011 &mdash; May 2012
+Member-at-Large                |      Bloomington, IN
+:----------------------------- | -------------------:
+_Volunteers in Sustainability_ | May 2011 &mdash; May 2012
 
 - Advised members of the executive committee and fulfilled the duties of Coordinator in their absence
 
-Coordinator                  |      Bloomington, IN
----------------------------- | -------------------:
-Volunteers in Sustainability | May 2010 &mdash; May 2011
+Coordinator                    |      Bloomington, IN
+:----------------------------- | -------------------:
+_Volunteers in Sustainability_ | May 2010 &mdash; May 2011
 
 - Directed meetings and serve as chief executive of ViS
 
-Vice President of Membership |      Bloomington, IN
----------------------------- | -------------------:
-ΑΦΩ Service Fraternity       | May 2010 &mdash; May 2011
+Vice President of Membership   |      Bloomington, IN
+:----------------------------- | -------------------:
+_ΑΦΩ Service Fraternity_       | May 2010 &mdash; May 2011
 
 - Planned requisite social events, managed appointed officers and status of 100 active members
 
 ## Honors & Awards
 
-Distinguished Service Key Award                  | ΑΦΩ Service Fraternity
------------------------------------------------- | ---------------------:
-For outstanding service to Chapter and Community |          December 2012
+Distinguished Service Key Award                    | ΑΦΩ Service Fraternity
+:------------------------------------------------- | ---------------------:
+_For outstanding service to Chapter and Community_ |          December 2012
